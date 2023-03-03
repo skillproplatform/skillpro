@@ -1930,3 +1930,12 @@ a.app-btn.btmbtn {
     border: 1px solid #bec8c3;
     border-radius: 6px;
 }
+iframe.courseframe {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    left: 0;
+    top: 70px;
+    margin-bottom: 35px;
+}
